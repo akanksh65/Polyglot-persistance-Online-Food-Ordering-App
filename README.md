@@ -26,7 +26,7 @@ NOTE : The Video presentation has been uploaded in the one-drive and the link ha
 (or) Please refer to Video_Recording_Link.txt for the presentation link.
 
 # ->HOW TO INSTALL AND RUN THE APPLICATION:
-                                                            RDBMS.ipynb
+      #                                                      RDBMS.ipynb
                                      1)Make sure all the files in the zip file are stored in this location(S:\BEMM463_Group_Assignment).
                                      2)Do not change the folder name or the .csv file names.
                                      3)Open anaconda navigator
@@ -35,7 +35,7 @@ NOTE : The Video presentation has been uploaded in the one-drive and the link ha
                                      6)The BEMM459_ASSIGNMENT.db file will be saved in downloads if you would like to view it in sqllite3
                                      NOTE : If you're rerunning the code, please delete the database file and then rerun it(Downloads/BEMM459_ASSIGNMENT.db) 
                   
-                                                            NoSQL(Redis).ipynb
+    #                                                        NoSQL(Redis).ipynb
                                      1)Please type redis-server and open redis-server.exe. Keep it open until all the codes are run
                                      2)As we're using default port(6379), we can now proceed with the jupyter notebook file
                                      NOTE :The SCAN function will work only on Redis-cli higher than 2.8.Exeter's Virtual Windows Desktop has redis-cli version 2.4.5 which is not compatible with SCAN, HSCAN functions
