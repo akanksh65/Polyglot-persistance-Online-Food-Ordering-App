@@ -1,6 +1,8 @@
 # Polyglot-persistance-Online-Food-Ordering-App
 In this project we'll be conceptualising and implementing a database-driven application where multiple database technologies(Relational Database(SQLLite) amd noSQL(Redis)) co-exist within the same application.
 
+We'll be using pandas and SQLAlchemy(ORM) to play with the Database:)
+
 Link to our project presentation : https://www.dropbox.com/s/1juruk84k1w8krk/BEMM459-Final_Presentation.mp4?dl=0
 
 
