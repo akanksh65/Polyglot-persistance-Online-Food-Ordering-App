@@ -1,0 +1,6 @@
+﻿menu_type_id,type_name,description
+1,a la carte menu,"In this type of menu, each item is listed and priced separately, Here, they can choose whatever items and what to combine them with when they eat or dine."
+2,static menu,The larger menu of an establishment that doesn’t usually change in terms of its food and beverage items is called a static menu.
+3,fixed menu,"In this type of menu, a few items are listed and they are indicated with a fixed price. There are two types of fixed menus, namely the table d’ hote menu, and the prix fixe menu."
+4,du jour menu,"This type of menu varies according to what is available for the day, or what the chef has prepared. When it says “soup du jour”, then it means that soup is the specialty for the day."
+5,cycle menu,This menu type refers to a list of food items that are repeated as a cycle throughout a certain period.

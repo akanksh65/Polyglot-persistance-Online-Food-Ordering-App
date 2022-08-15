@@ -1,0 +1,31 @@
+﻿menu_id,menu_name,menu_type_id,menu_image,ingredients,menu_status,price
+1,chicken momos,1,,,1,8.99
+2,veg momos,1,,,1,7.99
+3,chicket satay,1,,,1,10.99
+4,chicken skewers,1,,,1,12.99
+5,fish and chips,1,,,1,15.99
+6,crab tart,2,,,1,16.89
+7,prawn fry,2,,,1,14.39
+8,lamb curry,2,,,1,12.59
+9,chicken tikka masala,2,,,1,14.77
+10,chicken biriyani,3,,,1,12.99
+11,lamb biriyani,3,,,1,13.35
+12,jacket potatoes,2,,,1,14.55
+13,beef bologenesse,3,,,1,12.55
+14,chicken kofta curry,3,,,1,28.45
+15,squid fry,4,,,1,13.29
+16,sea food paella,4,,,1,14.49
+17,vanilla panakotta,1,,,1,19.69
+18,turkey burger,3,,,1,7.99
+19,coconut curry,5,,,1,5.99
+20,chicken milanese,1,,,1,9
+21,Veg curry,2,,,1,6
+22,beef curry,3,,,1,5
+23,Paneer tikka masala,4,,,1,12
+24,Veg biriyani,5,,,0,6.99
+25,chicken bologenesse,1,,,1,9.99
+26,Veg bologenesse,2,,,1,7.49
+27,choe pastry,3,,,1,3.49
+28,chocolate panakotta,4,,,0,6.99
+29,straweberry ice,4,,,0,4.99
+30,Belgian waffles,5,,,0,7.99
