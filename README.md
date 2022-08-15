@@ -12,7 +12,7 @@ NOTE : Change the location of csv files as needed beforing running the code. CSV
                                1) RDBMS(relational Database Management System)(SQLLite3)
                                2) Redis( NoSQL database system)(redis-cli Version 3.0.504)
 
-# -> Tools used to implement:
+## -> Tools used to implement:
                           1) redis-cli and redis-server
 			        2)Jupyter notebook luanched with the help of Anaconda Navigator
                           3) Python version 3.3 (Please refer to the python syntax carefully if using lower versions as there mught be slight changes)
