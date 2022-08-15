@@ -18,7 +18,7 @@ NOTE : Change the location of csv files as needed beforing running the code. CSV
                           3) Python version 3.3 (Please refer to the python syntax carefully if using lower versions as there mught be slight changes)
 
 
- # ->Objective of the application:
+ ## ->Objective of the application:
 			1) Our application will assist three types of users,namely:
                                     I)Customers who place order
                                     II)Software vendors/partners who will process the payment
@@ -29,7 +29,7 @@ NOTE : Change the location of csv files as needed beforing running the code. CSV
 NOTE : The Video presentation has been uploaded in the one-drive and the link has been shared inside the powerpoint presentation.
 (or) Please refer to Video_Recording_Link.txt for the presentation link.
 
-# ->HOW TO INSTALL AND RUN THE APPLICATION:
+## ->HOW TO INSTALL AND RUN THE APPLICATION:
       #                                                      RDBMS.ipynb
                                      1)Make sure all the files in the zip file are stored in this location(S:\BEMM463_Group_Assignment).
                                      2)Do not change the folder name or the .csv file names.
