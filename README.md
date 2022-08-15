@@ -8,7 +8,7 @@ Link to our project presentation : https://www.dropbox.com/s/1juruk84k1w8krk/BEM
 
 NOTE : Change the location of csv files as needed beforing running the code. CSV files can be directly read through this github link as well.
 
-# -> Database technologies used:
+## -> Database technologies used:
                                1) RDBMS(relational Database Management System)(SQLLite3)
                                2) Redis( NoSQL database system)(redis-cli Version 3.0.504)
 
